@@ -1,0 +1,4 @@
+C:\Users\kiruba\Desktop\DevOps\Test_Applications\DemoApplication\DemoApplication\bin\DemoApplication.dll
+C:\Users\kiruba\Desktop\DevOps\Test_Applications\DemoApplication\DemoApplication\bin\DemoApplication.pdb
+C:\Users\kiruba\Desktop\DevOps\Test_Applications\DemoApplication\DemoApplication\obj\Debug\DemoApplication.dll
+C:\Users\kiruba\Desktop\DevOps\Test_Applications\DemoApplication\DemoApplication\obj\Debug\DemoApplication.pdb

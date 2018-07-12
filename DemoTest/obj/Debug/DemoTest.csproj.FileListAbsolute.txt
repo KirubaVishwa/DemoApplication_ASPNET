@@ -1,0 +1,7 @@
+C:\Users\kiruba\Desktop\DevOps\Test_Applications\DemoApplication\DemoTest\bin\Debug\DemoTest.dll
+C:\Users\kiruba\Desktop\DevOps\Test_Applications\DemoApplication\DemoTest\bin\Debug\DemoTest.pdb
+C:\Users\kiruba\Desktop\DevOps\Test_Applications\DemoApplication\DemoTest\bin\Debug\DemoApplication.dll
+C:\Users\kiruba\Desktop\DevOps\Test_Applications\DemoApplication\DemoTest\bin\Debug\DemoApplication.pdb
+C:\Users\kiruba\Desktop\DevOps\Test_Applications\DemoApplication\DemoTest\obj\Debug\DemoTest.csprojResolveAssemblyReference.cache
+C:\Users\kiruba\Desktop\DevOps\Test_Applications\DemoApplication\DemoTest\obj\Debug\DemoTest.dll
+C:\Users\kiruba\Desktop\DevOps\Test_Applications\DemoApplication\DemoTest\obj\Debug\DemoTest.pdb
