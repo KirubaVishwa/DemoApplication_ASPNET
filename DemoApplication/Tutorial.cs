@@ -10,7 +10,7 @@ namespace DemoApplication
         public String Name;
         public Tutorial()
         {
-            Name = "ASP.NET Demo";
+            Name = "ASP.NET Demo1";
         } 
     }
 }
