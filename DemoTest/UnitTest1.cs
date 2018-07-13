@@ -67,7 +67,7 @@ namespace DemoTest
             // TODO: Add test logic here
             //
             Tutorial tp = new Tutorial();
-            Assert.AreEqual(tp.Name, "Guru99 - ASP.Net");
+            Assert.AreEqual(tp.Name, "ASP.NET Demo");
         }
     }
 }
